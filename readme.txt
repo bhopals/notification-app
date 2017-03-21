@@ -20,3 +20,19 @@ Client : \notification-app
 	
 Description : Server will listen the the port 8088 and send the task type when requested.
 Client will make the connetion to the port 8080 and request task type in fixed intervel (2000 ms).
+
+
+About Application:
+
+In this app Notification Server that is in NODE will send notification to Application APP on request.
+In App all notificaiton will be shown in categorise form.
+
+
+Technology used :
+
+ - NodeJS
+ - AngularJS
+ - Angular Material
+ - HTML5 WebSocket
+ - Angular WebSocket
+ 
