@@ -1,10 +1,10 @@
 # Node JS and Angular Notification app
 
 ### Demo
-(http://imgur.com/a/CDLlF)  
+![demo](http://imgur.com/a/CDLlF)  
 
 
-##Server - \notification-server
+## Server - \notification-server
 
 	Run these commands : 
 	1. to install the dependency (Only first time)  :   npm install
@@ -13,7 +13,7 @@
 	http://localhost:8080/
 
 
-##Client - \notification-app
+## Client - \notification-app
 	Run these commands : 
 	1. to install node dependency (Only first time)  :   npm install
 	2. to install bower dependency (Only first time)  :   bower install
@@ -23,12 +23,12 @@
 	
 	
 	
-##Description 
+## Description 
 Server will listen the the port 8088 and send the task type when requested.
 Client will make the connetion to the port 8080 and request task type in fixed intervel (2000 ms).
 
 
-##About Application
+## About Application
 
 In this app Notification Server that is in NODE will send notification to Application APP on request.
 In App all notificaiton will be shown in categorise form.
