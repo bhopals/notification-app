@@ -1,7 +1,7 @@
 # Node JS and Angular Notification app
 
 ### Demo
-![demo](http://imgur.com/a/CDLlF)  
+(http://imgur.com/a/CDLlF)  
 
 
 ## Server - \notification-server
